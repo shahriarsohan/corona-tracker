@@ -1,2 +1,2 @@
 Setup:
-- run ```npm i && npm start```
+-> run ```npm i && npm start```
